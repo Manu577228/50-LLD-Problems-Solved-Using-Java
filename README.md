@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/SKBNcms1/Bharadwaj-removebg-preview.png" alt="Bharadwaj" width="180"/>
 </p>
 
-<h1 align="center">🚀 50 Low-Level Design (LLD) Problems Solved Using Java</h1>
+<h1 align="center">🚀 50 Low-Level Design (LLD) Problems Solved Using Java !</h1>
 
 <p align="center">
   <a href="https://youtube.com/@code-with-Bharadwaj"><b>@code-with-Bharadwaj</b></a>
