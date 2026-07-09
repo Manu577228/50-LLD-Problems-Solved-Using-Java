@@ -26,7 +26,7 @@ It is built specifically for:
 
 ---
 
-## 🔥 What Makes This Repo Awesome
+## 🔥 What Makes This Repo Awesome !
 
 - ✅ 50+ most frequently asked LLD interview problems  
 - ✅ Clean, modular & extensible Java architecture  
